@@ -3,7 +3,7 @@ var cardTwo = "queen";
 var cardThree = "king";
 var cardFour = "king";
 
-/*
+
 if (cardOne === cardTwo) {
 	alert ("You found a match!");
 	} else {
@@ -15,7 +15,7 @@ if (cardThree === cardFour) {
 		} else {
 	alert ("Sorry, try again.");
 		}
-		*/
+	
 
     var board = document.getElementById('board-game');
 
